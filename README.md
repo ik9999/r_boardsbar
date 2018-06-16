@@ -1,2 +1,2 @@
-# r_favboardsbar
-Restyaboard favorite boards toolbar plugin
+# r_starboardsbar
+Starred boards toolbar plugin for Restyaboard
