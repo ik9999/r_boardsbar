@@ -1,0 +1,6 @@
+.r_boardsbar-bar {
+  max-width: calc(100% - 531px);
+  overflow: hidden;
+  height: 30px;
+  margin-left: 5px;
+}
